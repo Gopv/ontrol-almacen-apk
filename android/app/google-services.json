@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "219084807110",
+    "project_id": "control-almacen-2026-gp",
+    "storage_bucket": "control-almacen-2026-gp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219084807110:android:a4470e015bf0e393e8b0c7",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJ6TJzK-x0AdhNgII_z6uo5yd7qDEB3uA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
